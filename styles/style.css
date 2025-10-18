@@ -96,6 +96,7 @@ ol {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  height: 100%;
   width: 100%;
   gap: 30px;
   padding: 133px 30px;
@@ -211,7 +212,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  min-height: 298px;
+  height: 298px;
   overflow-y: auto;
 }
 
